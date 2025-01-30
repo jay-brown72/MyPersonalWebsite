@@ -3,7 +3,7 @@ My personal website showcasing my skills and experience
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	
 </head>
 <body>
 	<h1>Welcome to My Personal Website</h1>
