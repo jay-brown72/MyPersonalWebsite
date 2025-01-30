@@ -19,5 +19,11 @@
 	<h5>Contact</h5>
 	<p>Feel free to reach out to me through this GitHub repository or via <a href >wormenorjustice2@gmail.com</a>.
 </p>
+	<h5>What to expert</h5>
+	<p>This website will feature updates about my development journey, tips on how to use various technologies, and maybe even some fun projects.
+</p>
+	<h5>Stay Tunnel</h5>
+	<p>I'm excited to share my journey with you. Stay tuned for updates, and let's connect soon!
+</p>
 </body>
 </html>
