@@ -11,5 +11,8 @@ My personal website showcasing my skills and experience
 .</p>
 	<h1>Profession</h1>
 	<p>Aspiring Web Developer</p>
+	<hr>
+	<h1>Interests</h1>
+	<p>Coding, Web Development, Tech Trends, and Personal Growth</p>
 </body>
 </html>
