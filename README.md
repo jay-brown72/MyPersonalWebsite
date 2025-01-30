@@ -16,7 +16,7 @@ My personal website showcasing my skills and experience
 	<p>Coding, Web Development, Tech Trends, and Personal Growth</p>
 	<hr>
 	<h1>Contact</h1>
-	<p>Feel free to reach out to me through this GitHub repository or via wormenorjustice2@gmail.com.
+	<p>Feel free to reach out to me through this GitHub repository or via <a href wormenorjustice2@gmail.com>.
 </p>
 </body>
 </html>
